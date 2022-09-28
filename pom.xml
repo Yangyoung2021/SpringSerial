@@ -11,6 +11,8 @@
     <modules>
         <module>Spring</module>
         <module>SpringMVC</module>
+<!--        <module>Mybatis</module>-->
+        <module>Spring-Advanced</module>
     </modules>
 
     <properties>

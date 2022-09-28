@@ -1,19 +1,22 @@
 package com.yang;
 
-import com.yang.beanDefinition.HelloClass;
+import com.custom.pojo.CustomHotel;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import java.util.Map;
 
+@SpringBootApplication
 public class Application {
+
     public static void main(String[] args) {
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
-        HelloClass hello = context.getBean(HelloClass.class);
-        System.out.println(hello);
-        System.out.println(hello.getName());
-        for (Map.Entry<String, String> entry : hello.getMap().entrySet()) {
-            System.out.println("entry ----> key = " + entry.getKey() + ", value = " + entry.getValue());
+        CustomHotel customHotel = context.getBean(CustomHotel.class);
+        customHotel.test();
+
+        String[] beanDefinitionNames = context.getBeanDefinitionNames();
+
+        for (String beanDefinitionName : beanDefinitionNames) {
+            System.out.println(beanDefinitionName);
         }
-        hello.iterList(hello.getList());
     }
 }
