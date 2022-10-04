@@ -1,0 +1,4 @@
+spring:
+  redis:
+    host: http://localhost
+    port: 6379
