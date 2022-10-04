@@ -13,6 +13,7 @@
         <module name="Spring" />
         <module name="Spring-Advanced" />
         <module name="Mybatis" />
+        <module name="redis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -25,6 +26,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Spring-Advanced" options="-parameters" />
       <module name="SpringBootDemo" options="-parameters" />
+      <module name="redis" options="-parameters" />
     </option>
   </component>
 </project>

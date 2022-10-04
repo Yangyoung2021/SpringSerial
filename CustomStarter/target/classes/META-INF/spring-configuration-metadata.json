@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "spring.test",
+      "type": "com.custom.config.TestProperties",
+      "sourceType": "com.custom.config.TestProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.test.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.custom.config.TestProperties"
+    },
+    {
+      "name": "spring.test.name",
+      "type": "java.lang.String",
+      "sourceType": "com.custom.config.TestProperties"
+    },
+    {
+      "name": "spring.test.time",
+      "type": "java.util.Date",
+      "sourceType": "com.custom.config.TestProperties"
+    }
+  ],
+  "hints": []
+}
