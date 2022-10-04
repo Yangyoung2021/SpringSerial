@@ -1,0 +1,4 @@
+spring:
+  test:
+    name: "王八"
+    age: 100

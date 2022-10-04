@@ -1,0 +1,17 @@
+server:
+  port: 8088
+
+
+my-user:
+  id: 121111111111
+  username: zhangsan
+  password: 123456
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql:///test
+    username: root
+    password: root
+  test:
+    age: 80
+    name: "好家伙"
