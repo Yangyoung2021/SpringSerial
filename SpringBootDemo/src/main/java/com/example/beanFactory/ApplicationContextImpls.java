@@ -10,11 +10,7 @@
 //import org.springframework.context.annotation.Bean;
 //import org.springframework.context.annotation.Configuration;
 //import org.springframework.web.servlet.DispatcherServlet;
-//import org.springframework.web.servlet.ModelAndView;
 //import org.springframework.web.servlet.mvc.Controller;
-//
-//import javax.servlet.http.HttpServletRequest;
-//import javax.servlet.http.HttpServletResponse;
 //
 //public class ApplicationContextImpls {
 //

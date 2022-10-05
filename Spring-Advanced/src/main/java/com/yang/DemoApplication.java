@@ -59,5 +59,6 @@ public class DemoApplication {
 
 //        ctx.publishEvent(new PublisherDemo01(ctx));
         ctx.getBean(ComponentDemo2.class).register();
+        ctx.close();
     }
 }

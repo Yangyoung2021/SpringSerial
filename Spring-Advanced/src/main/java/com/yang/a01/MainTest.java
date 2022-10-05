@@ -9,7 +9,7 @@ import java.io.IOException;
 
 public class MainTest {
 
-    public static void main(String[] args) throws IOException {
+    public static void main1(String[] args) {
         GenericApplicationContext context = new GenericApplicationContext();
         context.registerBean("config", Config.class);
         // 添加后置处理器

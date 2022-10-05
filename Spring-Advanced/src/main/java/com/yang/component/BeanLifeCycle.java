@@ -27,6 +27,6 @@ public class BeanLifeCycle {
 
     @PreDestroy
     public void destroy() {
-        System.out.println("执行销毁方法");
+//        System.out.println("执行销毁方法");
     }
 }

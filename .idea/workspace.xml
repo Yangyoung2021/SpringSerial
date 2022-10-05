@@ -4,177 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c52426e-b5f6-4cd4-ba2d-66536bcd7f3f" name="Changes" comment="后处理器">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/entities/entities.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/entities/entities.dat.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/entities/entities.dat.values" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/entities/entities.dat.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/entities/entities.dat.values.s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/entities/entities.dat_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/entities/entities.dat_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/storage_v2/_src_/schema/cloud_order.xIxfuQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/storage_v2/_src_/schema/cloud_user.lV837Q.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/storage_v2/_src_/schema/information_schema.FNRwLQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/storage_v2/_src_/schema/mimp.PyQzAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/storage_v2/_src_/schema/reggie.rx5IyA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/storage_v2/_src_/schema/sys.zb4BAA.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/storage_v2/_src_/schema/test.kkQ2AA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33/storage_v2/_src_/schema/test.kkQ2AA.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomStarter/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomStarter/src/main/java/com/custom/CustomApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomStarter/src/main/java/com/custom/config/TestConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomStarter/src/main/java/com/custom/config/TestProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomStarter/src/main/java/com/custom/pojo/CustomHotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomStarter/src/main/resources/META-INF/spring.factories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomStarter/src/test/java/com/yang/TRX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomStarter/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomStarter/target/classes/META-INF/spring.factories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomStarter/target/classes/com/custom/CustomApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomStarter/target/classes/com/custom/Pojo/CustomHotel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomStarter/target/classes/com/custom/config/TestConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomStarter/target/classes/com/custom/config/TestProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomStarter/target/test-classes/com/yang/TRX$ReadView.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomStarter/target/test-classes/com/yang/TRX$RowData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomStarter/target/test-classes/com/yang/TRX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/MybatisApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/aspect/AsyncAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/aspect/MethodArgumentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/aspect/OpenAsync.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/config/MyDateSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/config/MybatisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/config/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/exception/GlobalException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/fo/QueryParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/fo/UserFo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/fo/ValidList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/mapper/StudentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/pojo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/service/impl/StudentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/vo/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/vo/TestList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/web/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/resources/com/yang/mapper/StudentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/resources/com/yang/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/test/java/com/yang/normal/TestUpdateBatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/test/java/com/yang/testAdvanced/ConnectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/test/java/com/yang/testAdvanced/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/MybatisApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/aspect/AsyncAspect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/aspect/MethodArgumentException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/aspect/OpenAsync.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/config/MyDateSource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/config/MybatisConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/config/SpringConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/exception/GlobalException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/fo/ListPropertiesCopy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/fo/QueryParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/fo/UserFo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/fo/ValidList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/mapper/StudentMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/mapper/StudentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/mapper/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/pojo/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/service/StudentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/service/impl/StudentServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/vo/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/vo/TestList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/web/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/classes/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/test-classes/com/yang/normal/TestUpdateBatch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/test-classes/com/yang/testAdvanced/ConnectTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/target/test-classes/com/yang/testAdvanced/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a01/Bean1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a01/Bean2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a01/Bean3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a01/Bean4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a01/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a01/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a01/mapper/Mapper1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a01/mapper/Mapper2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a01/mapper/Mapper3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/component/BeanLifeCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/component/ComponentDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/component/ComponentDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/component/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/config/SpringConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/postProcessor/AtBeanPostProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/postProcessor/ComponentScanPostProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/postProcessor/MapperBeanPostProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/postProcessor/PostProcessorCommon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/publisher/PublisherDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/webapp/WEB-INF/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/DemoApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a01/Bean1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a01/Bean2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a01/Bean3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a01/Bean4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a01/Config.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a01/MainTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a01/mapper/Mapper1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a01/mapper/Mapper2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a01/mapper/Mapper3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/component/BeanLifeCycle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/component/ComponentDemo01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/component/ComponentDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/component/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/config/SpringConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/postProcessor/AtBeanPostProcessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/postProcessor/ComponentScanPostProcessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/postProcessor/MapperBeanPostProcessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/postProcessor/PostProcessorCommon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/publisher/PublisherDemo01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/com/yang/aop/MyAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/com/yang/proxy/DemoInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/com/yang/proxy/PlainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/com/yang/proxy/ProxyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/com/yang/test/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/target/classes/com/yang/aop/MyAspect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/target/classes/com/yang/beanDefinition/HelloClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/target/classes/com/yang/beanDefinition/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/target/classes/com/yang/proxy/DemoInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/target/classes/com/yang/proxy/PlainClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/target/classes/com/yang/proxy/ProxyDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/target/classes/com/yang/proxy/StaticProxyDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/target/classes/com/yang/test/Demo01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/beanFactory/ApplicationContextImpls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/beanFactory/DefaultListableBeanFactoryDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/src/main/java/com/example/redis/RedisApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/src/test/java/com/example/redis/RedisApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1c52426e-b5f6-4cd4-ba2d-66536bcd7f3f" name="Changes" comment="添加">
+      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a02/MainAwareOrInitialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a02/MyBean1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a02/MyBean2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a02/TestDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a03/$Proxy0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a03/IInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a03/Son1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/test/java/com/yang/test/SingleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a02/MainAwareOrInitialize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a02/MyBean1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a02/MyBean2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a02/TestDog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a03/IInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a03/Son1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/config/GetContextUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/pojo/PrototypeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/pojo/Single.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/pojo/TestDog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomStarter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomStarter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a01/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a01/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/component/BeanLifeCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/component/BeanLifeCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/publisher/PublisherDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/publisher/PublisherDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/DemoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/DemoApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a01/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a01/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/component/BeanLifeCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/component/BeanLifeCycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/component/ComponentDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/component/ComponentDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/publisher/PublisherDemo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/publisher/PublisherDemo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringBootDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/SpringBootDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/SpringBootDemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/beanFactory/ApplicationContextImpls.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/beanFactory/ApplicationContextImpls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/pojo/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,8 +54,8 @@
         <option value="spring-beans.schema" />
         <option value="mapper" />
         <option value="AnnotationType" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -281,6 +147,7 @@
       <recent name="com.example" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yang.a02" />
       <recent name="com.yang.a01.mapper" />
     </key>
   </component>
@@ -291,7 +158,33 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainTest">
+  <component name="RunManager" selected="Application.$Proxy0">
+    <configuration name="$Proxy0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yang.a03.$Proxy0" />
+      <module name="Spring-Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yang.a03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainAwareOrInitialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yang.a02.MainAwareOrInitialize" />
+      <module name="Spring-Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yang.a02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yang.a01.MainTest" />
       <module name="Spring-Advanced" />
@@ -301,22 +194,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RedisApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="redis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.redis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example.redis" />
-      <option name="MAIN_CLASS_NAME" value="com.example.redis.RedisApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -332,22 +209,6 @@
       <option name="PACKAGE_NAME" value="com.example.redis" />
       <option name="MAIN_CLASS_NAME" value="com.example.redis.RedisApplicationTests" />
       <option name="METHOD_NAME" value="stringAdvanced" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RedisApplicationTests.stringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="redis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.redis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example.redis" />
-      <option name="MAIN_CLASS_NAME" value="com.example.redis.RedisApplicationTests" />
-      <option name="METHOD_NAME" value="stringTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -389,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$Proxy0" />
+        <item itemvalue="Application.MainAwareOrInitialize" />
         <item itemvalue="Application.MainTest" />
         <item itemvalue="Spring Boot.Application" />
         <item itemvalue="JUnit.RedisApplicationTests.stringAdvanced" />
-        <item itemvalue="JUnit.RedisApplicationTests.stringTest" />
-        <item itemvalue="JUnit.RedisApplicationTests.contextLoads" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +312,9 @@
       <workItem from="1664721795807" duration="970000" />
       <workItem from="1664758771997" duration="14820000" />
       <workItem from="1664789146166" duration="984000" />
-      <workItem from="1664790267567" duration="1831000" />
+      <workItem from="1664790267567" duration="2662000" />
+      <workItem from="1664863441776" duration="12470000" />
+      <workItem from="1664934338643" duration="4682000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1659352537447</created>
@@ -529,7 +392,8 @@
     <MESSAGE value="first" />
     <MESSAGE value="添加数据" />
     <MESSAGE value="后处理器" />
-    <option name="LAST_COMMIT_MESSAGE" value="后处理器" />
+    <MESSAGE value="添加" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
