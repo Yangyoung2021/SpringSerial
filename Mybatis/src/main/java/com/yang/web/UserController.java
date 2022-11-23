@@ -35,7 +35,6 @@ public class UserController {
     @PostMapping("/insertList")
     public String insertList(@RequestBody @Valid ValidList<UserFo> userFos) {
         userService.insertList(userFos);
-
         return "添加成功";
     }
 }

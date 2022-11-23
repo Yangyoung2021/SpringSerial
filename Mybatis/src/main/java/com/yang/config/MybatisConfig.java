@@ -1,5 +1,9 @@
 package com.yang.config;
 
+import org.apache.ibatis.session.SqlSessionFactoryBuilder;
+import org.mybatis.spring.SqlSessionFactoryBean;
+import org.mybatis.spring.SqlSessionTemplate;
+import org.springframework.context.annotation.Bean;
 import org.springframework.jdbc.datasource.DataSourceTransactionManager;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
 import org.springframework.stereotype.Component;
@@ -10,7 +14,7 @@ import javax.sql.DataSource;
 @Component
 public class MybatisConfig {
 
-//    @Bean
+    @Bean
     public DataSource dataSource(MyDateSource myDateSource) {
         DriverManagerDataSource dataSource = new DriverManagerDataSource();
         dataSource.setDriverClassName(myDateSource.getDriver());
@@ -22,11 +26,18 @@ public class MybatisConfig {
 
 
 
-//    @Bean
+    @Bean
     public TransactionManager transactionManager(DataSource dataSource) {
         DataSourceTransactionManager transactionManager = new DataSourceTransactionManager();
         transactionManager.setDataSource(dataSource);
         return transactionManager;
+    }
+
+    @Bean
+    public SqlSessionFactoryBean sqlSessionFactoryBean(DataSource dataSource) {
+        SqlSessionFactoryBean factoryBean = new SqlSessionFactoryBean();
+        factoryBean.setDataSource(dataSource);
+        return factoryBean;
     }
 
 

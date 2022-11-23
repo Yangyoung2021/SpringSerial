@@ -5,13 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c52426e-b5f6-4cd4-ba2d-66536bcd7f3f" name="Changes" comment="依赖整理">
-      <change beforePath="$PROJECT_DIR$/CustomStarter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomStarter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Advanced/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/config/MybatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/config/MybatisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/config/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/config/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/MybatisApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/aspect/AsyncAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/aspect/MethodArgumentException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/aspect/OpenAsync.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/config/MyDateSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/config/MybatisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/config/SpringConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/exception/GlobalException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/fo/ListPropertiesCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/fo/QueryParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/fo/UserFo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/fo/ValidList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/mapper/StudentMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/mapper/StudentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/pojo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/service/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/service/impl/StudentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/vo/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/vo/TestList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/web/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/mybaits-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/test-classes/com/yang/normal/TestUpdateBatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/test-classes/com/yang/testAdvanced/ConnectTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/test-classes/com/yang/testAdvanced/Test01.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/redis/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +64,7 @@
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../../Go/GOROOT" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -85,12 +117,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "yiiguxing.plugin.translate",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -123,7 +163,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SingleTest.name">
+  <component name="RunManager" selected="Spring Boot.MybatisApplication">
     <configuration name="$Proxy0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yang.a03.$Proxy0" />
       <module name="Spring-Advanced" />
@@ -293,7 +333,7 @@
       <workItem from="1666025341985" duration="1031000" />
       <workItem from="1666098767261" duration="734000" />
       <workItem from="1667751024678" duration="782000" />
-      <workItem from="1669211327253" duration="2084000" />
+      <workItem from="1669211327253" duration="3012000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1659352537447</created>
@@ -344,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669212723558</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="依赖整理">
+      <created>1669213473409</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669213473409</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
