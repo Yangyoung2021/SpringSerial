@@ -13,10 +13,12 @@ import java.lang.reflect.Proxy;
 public class $Proxy0 extends Proxy implements IInterface {
 
     static Method m0;
+    static Method m1;
 
     static {
         try {
             m0 = IInterface.class.getMethod("run");
+            m1 = IInterface.class.getMethod("walk");
         } catch (NoSuchMethodException e) {
             throw new NoSuchMethodError(e.getLocalizedMessage());
         }
@@ -29,7 +31,16 @@ public class $Proxy0 extends Proxy implements IInterface {
     @Override
     public void run() {
         try {
-            h.invoke(this, m0, new Object[0]);
+            this.h.invoke(this, m0, new Object[0]);
+        } catch (Throwable e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+    @Override
+    public int walk() {
+        try {
+            return (int) this.h.invoke(this, m1, new Object[0]);
         } catch (Throwable e) {
             throw new RuntimeException(e);
         }
@@ -57,17 +68,14 @@ public class $Proxy0 extends Proxy implements IInterface {
         });
         s.run();
 
-        IInterface proxy0 = new $Proxy0(new InvocationHandler() {
-            @Override
-            public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
-                log.info("...before");
-                Object invoke = method.invoke(son1, args);
-                log.info("...after");
-                return invoke;
-            }
+        IInterface proxy0 = new $Proxy0((proxy, method, args12) -> {
+            log.info("...before");
+            Object invoke = method.invoke(son1, args12);
+            log.info("...after");
+            return invoke;
         });
 
-        proxy0.run();
+        proxy0.walk();
 
     }
 }

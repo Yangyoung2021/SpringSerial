@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+    <settings>
+        <!-- 显示日志信息 -->
+        <setting name="logImpl" value="StdOutImpl"/>
+    </settings>
+
+    <typeAliases>
+        <!-- 设置别名 -->
+        <package name="com.young.domain"/>
+    </typeAliases>
+
+
+    <!-- 引用插件分页助手 -->
+<!--    <plugins>-->
+<!--        <plugin interceptor="com.github.pagehelper.PageInterceptor">-->
+<!--            &lt;!&ndash;-->
+<!--                reasonable:分页合理化参数-->
+<!--                当该参数设置为true时，当前页面如果小于等于0会查询第一页，大于等于最后一页时会查询最后一页，默认值为false-->
+<!--            &ndash;&gt;-->
+<!--            <property name="reasonable" value="true"/>-->
+<!--        </plugin>-->
+<!--    </plugins>-->
+
+    <environments default="dev">
+        <environment id="dev">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="${jdbc.driver}"/>
+                <property name="url" value="${jdbc.url}"/>
+                <property name="username" value="${jdbc.username}"/>
+                <property name="password" value="${jdbc.password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+
+    <!--扫描映射文件所在包-->
+    <mappers>
+        <!--            <mapper resource="mapper/MenuMapper.xml"/>-->
+        <package name="com.yang.mapper.*"/>
+    </mappers>
+
+</configuration>

@@ -15,7 +15,6 @@ import java.util.Objects;
 
 @RestController
 @RequestMapping("/user")
-//@Validated
 public class UserController {
 
     @Autowired
@@ -34,7 +33,7 @@ public class UserController {
 
 
     @PostMapping("/insertList")
-    public String insertList(@RequestBody @Valid ValidList<UserFo> userFos) throws MethodArgumentException {
+    public String insertList(@RequestBody @Valid ValidList<UserFo> userFos) {
         userService.insertList(userFos);
 
         return "添加成功";

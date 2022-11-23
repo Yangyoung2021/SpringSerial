@@ -12,5 +12,5 @@ public interface UserService {
     @Transactional
     void insertOne(User user);
 
-    void insertList(@Valid List<UserFo> userFos);
+    void insertList(List<UserFo> userFos);
 }

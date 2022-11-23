@@ -20,7 +20,7 @@ public class TestUpdateBatch {
     @Test
     void insetBatchWithUpdate() {
         List<Student> list = new ArrayList<>();
-        list.add(new Student(6, "1", 89, "1", "18492849385", "1"));
+        list.add(new Student(6, "3", 100, "1", "18492849385", "4"));
         studentService.insertByNameAndGrade(list);
     }
 }

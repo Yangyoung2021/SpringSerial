@@ -15,7 +15,7 @@ public class UserFo {
 
     private Integer age;
 
-    @Pattern(regexp = "^(0|([1-9]([0-9]?)))$", message = "年龄格式错误")
+    @Pattern(regexp = "^(0|([1-9][0-9]?))$", message = "年龄格式错误")
     private String ageStr;
 
     public void setAgeStr(String ageStr) {

@@ -5,42 +5,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c52426e-b5f6-4cd4-ba2d-66536bcd7f3f" name="Changes" comment="添加">
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a02/MainAwareOrInitialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a02/MyBean1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a02/MyBean2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a02/TestDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a03/$Proxy0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a03/IInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a03/Son1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/test/java/com/yang/test/SingleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a02/MainAwareOrInitialize.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a02/MyBean1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a02/MyBean2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a02/TestDog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a03/IInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a03/Son1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/config/GetContextUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/pojo/PrototypeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/pojo/Single.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/pojo/TestDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/resources/mybaits-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Advanced/src/test/java/com/yang/test/MapInterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/841a8d8f-528e-45db-9b14-8dacbe362e33.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomStarter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomStarter/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/MybatisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/MybatisApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/config/MybatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/config/MybatisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/config/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/config/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/fo/UserFo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/fo/UserFo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/yang/web/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/src/test/java/com/yang/normal/TestUpdateBatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/test/java/com/yang/normal/TestUpdateBatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/src/test/java/com/yang/testAdvanced/ConnectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/test/java/com/yang/testAdvanced/ConnectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/MybatisApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/aspect/AsyncAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/aspect/MethodArgumentException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/aspect/OpenAsync.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/config/MyDateSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/config/MybatisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/config/SpringConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/exception/GlobalException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/fo/ListPropertiesCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/fo/QueryParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/fo/UserFo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/fo/ValidList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/mapper/StudentMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/mapper/StudentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/pojo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/service/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/service/impl/StudentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/vo/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/vo/TestList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/com/yang/web/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/test-classes/com/yang/normal/TestUpdateBatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/test-classes/com/yang/testAdvanced/ConnectTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/target/test-classes/com/yang/testAdvanced/Test01.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Spring-Advanced/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/DemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a01/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a01/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/component/BeanLifeCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/component/BeanLifeCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/publisher/PublisherDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/publisher/PublisherDemo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/DemoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/DemoApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a01/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a01/MainTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/component/BeanLifeCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/component/BeanLifeCycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/component/ComponentDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/component/ComponentDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/publisher/PublisherDemo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/publisher/PublisherDemo01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/SpringBootDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/SpringBootDemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/beanFactory/ApplicationContextImpls.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/beanFactory/ApplicationContextImpls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/example/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a03/$Proxy0.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a03/$Proxy0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a03/IInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a03/IInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a03/Son1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/src/main/java/com/yang/a03/Son1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/src/test/java/com/yang/test/SingleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/src/test/java/com/yang/test/SingleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a03/$Proxy0$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a03/$Proxy0.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a03/$Proxy0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a03/IInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a03/IInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a03/Son1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a03/Son1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/target/classes/com/yang/a03/Son2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Advanced/target/test-classes/com/yang/test/SingleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Advanced/target/test-classes/com/yang/test/SingleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/redis/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +83,7 @@
       </list>
     </option>
   </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../Go/GOROOT" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -70,24 +95,30 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.7.2/spring-boot-autoconfigure-2.7.2-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$PROJECT_DIR$/../../../jdk/jdk-8u251-windows-x64/jdk1.8.0_251/src.zip!/java/io/BufferedInputStream.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$PROJECT_DIR$/../../../jdk/jdk-8u251-windows-x64/jdk1.8.0_251/src.zip!/java/io/OutputStreamWriter.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.22/spring-beans-5.3.22-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$PROJECT_DIR$/../../../jdk/jdk-8u251-windows-x64/jdk1.8.0_251/src.zip!/java/io/Writer.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.22/spring-core-5.3.22-sources.jar!/org/springframework/core/io/support/SpringFactoriesLoader.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.22/spring-beans-5.3.22-sources.jar!/org/springframework/beans/factory/support/BeanDefinitionBuilder.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$PROJECT_DIR$/../../../jdk/jdk-8u251-windows-x64/jdk1.8.0_251/src.zip!/java/lang/reflect/Method.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$MAVEN_REPOSITORY$/cglib/cglib/2.2.2/cglib-2.2.2.jar!/net/sf/cglib/proxy/MethodInterceptor.class" root0="SKIP_INSPECTION" />
-    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.22/spring-beans-5.3.22-sources.jar!/org/springframework/beans/factory/support/BeanDefinitionRegistry.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$PROJECT_DIR$/../../../jdk/jdk-8u251-windows-x64/jdk1.8.0_251/src.zip!/java/io/Reader.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.7.2/spring-boot-autoconfigure-2.7.2-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.22/spring-beans-5.3.22-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$PROJECT_DIR$/../../../jdk/jdk-8u251-windows-x64/jdk1.8.0_251/src.zip!/java/io/FilterInputStream.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$PROJECT_DIR$/../../../jdk/jdk-8u251-windows-x64/jdk1.8.0_251/src.zip!/java/io/BufferedWriter.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$PROJECT_DIR$/../../../jdk/jdk-8u251-windows-x64/jdk1.8.0_251/src.zip!/java/io/BufferedOutputStream.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$PROJECT_DIR$/../../../jdk/jdk-8u251-windows-x64/jdk1.8.0_251/src.zip!/java/lang/reflect/Proxy.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.22/spring-beans-5.3.22-sources.jar!/org/springframework/beans/factory/support/BeanDefinitionBuilder.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.22/spring-beans-5.3.22-sources.jar!/org/springframework/beans/factory/support/BeanDefinitionRegistry.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.22/spring-beans-5.3.22-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.22/spring-beans-5.3.22-sources.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.22/spring-core-5.3.22-sources.jar!/org/springframework/core/io/support/SpringFactoriesLoader.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../jdk/jdk-8u251-windows-x64/jdk1.8.0_251/src.zip!/java/io/BufferedInputStream.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../jdk/jdk-8u251-windows-x64/jdk1.8.0_251/src.zip!/java/io/BufferedOutputStream.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../jdk/jdk-8u251-windows-x64/jdk1.8.0_251/src.zip!/java/io/BufferedWriter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../jdk/jdk-8u251-windows-x64/jdk1.8.0_251/src.zip!/java/io/FilterInputStream.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../jdk/jdk-8u251-windows-x64/jdk1.8.0_251/src.zip!/java/io/OutputStreamWriter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../jdk/jdk-8u251-windows-x64/jdk1.8.0_251/src.zip!/java/io/Reader.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../jdk/jdk-8u251-windows-x64/jdk1.8.0_251/src.zip!/java/io/Writer.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../jdk/jdk-8u251-windows-x64/jdk1.8.0_251/src.zip!/java/lang/reflect/Method.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../jdk/jdk-8u251-windows-x64/jdk1.8.0_251/src.zip!/java/lang/reflect/Proxy.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -105,30 +136,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql" />
-    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="SELECTIVE" />
-    <property name="go.formatter.settings.were.checked" value="true" />
-    <property name="go.import.settings.migrated" value="true" />
-    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mq-demo/pom.xml" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -158,7 +176,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.$Proxy0">
+  <component name="RunManager" selected="JUnit.SingleTest.name">
     <configuration name="$Proxy0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yang.a03.$Proxy0" />
       <module name="Spring-Advanced" />
@@ -198,17 +216,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RedisApplicationTests.stringAdvanced" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="redis" />
+    <configuration name="SingleTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.redis.*" />
+          <option name="PATTERN" value="com.yang.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.redis" />
-      <option name="MAIN_CLASS_NAME" value="com.example.redis.RedisApplicationTests" />
-      <option name="METHOD_NAME" value="stringAdvanced" />
+      <option name="PACKAGE_NAME" value="com.yang.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yang.test.SingleTest" />
+      <option name="METHOD_NAME" value="name" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -216,13 +234,13 @@
     </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="Spring" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.Application" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.yang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -250,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SingleTest.name" />
         <item itemvalue="Application.$Proxy0" />
         <item itemvalue="Application.MainAwareOrInitialize" />
         <item itemvalue="Application.MainTest" />
         <item itemvalue="Spring Boot.Application" />
-        <item itemvalue="JUnit.RedisApplicationTests.stringAdvanced" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +332,14 @@
       <workItem from="1664789146166" duration="984000" />
       <workItem from="1664790267567" duration="2662000" />
       <workItem from="1664863441776" duration="12470000" />
-      <workItem from="1664934338643" duration="4682000" />
+      <workItem from="1664934338643" duration="4810000" />
+      <workItem from="1664947655277" duration="2557000" />
+      <workItem from="1665121510945" duration="637000" />
+      <workItem from="1665123113868" duration="131000" />
+      <workItem from="1666025341985" duration="1031000" />
+      <workItem from="1666098767261" duration="734000" />
+      <workItem from="1667751024678" duration="782000" />
+      <workItem from="1669211327253" duration="377000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1659352537447</created>
@@ -386,7 +411,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
@@ -394,6 +418,9 @@
     <MESSAGE value="后处理器" />
     <MESSAGE value="添加" />
     <option name="LAST_COMMIT_MESSAGE" value="添加" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
