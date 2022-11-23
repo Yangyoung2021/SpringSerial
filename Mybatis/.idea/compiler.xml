@@ -7,26 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="CustomStarter" />
-        <module name="SpringMVC" />
-        <module name="SpringBootDemo" />
-        <module name="Spring" />
-        <module name="Spring-Advanced" />
         <module name="Mybatis" />
-        <module name="redis" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="consumer" target="8" />
-      <module name="mq-demo" target="8" />
-      <module name="publisher" target="8" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Spring-Advanced" options="" />
-      <module name="SpringBootDemo" options="" />
-      <module name="redis" options="" />
+      <module name="Mybatis" options="" />
     </option>
   </component>
 </project>

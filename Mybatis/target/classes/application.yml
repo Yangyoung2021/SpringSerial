@@ -1,0 +1,23 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/test?useSSL=false
+    username: root
+    password: root
+    druid:
+      filter:
+        wall:
+          enabled: true
+        config:
+          enabled: true
+        stat:
+          enabled: true
+        commons-log:
+          enabled: true
+        encoding:
+          enabled: true
+        slf4j:
+          enabled: true
+#mybatis-plus:
+#  configuration:
+#    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
